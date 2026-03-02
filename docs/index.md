@@ -1,6 +1,6 @@
 # The Ten Commandments Deep Dive: What Does the Bible Say?
 
-*A comprehensive 16-study biblical investigation examining what Scripture teaches about each of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, OT application, prophetic expansion, NT treatment, and cross-references from Genesis to Revelation.*
+*A comprehensive 17-study biblical investigation examining what Scripture teaches about each of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, OT application, prophetic expansion, NT treatment, and cross-references from Genesis to Revelation.*
 
 ---
 
@@ -10,7 +10,7 @@ What does the Bible actually say about the Ten Commandments? Not what tradition 
 
 ## The Approach
 
-This is an **expository** series, not a debate. There are no "positions" to argue. Each of the 16 studies is a genuine investigation that gathers ALL relevant evidence and lets the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:
+This is an **expository** series, not a debate. There are no "positions" to argue. Each of the 17 studies is a genuine investigation that gathers ALL relevant evidence and lets the biblical text speak for itself. No study presupposed its conclusion. Evidence was classified into hierarchical tiers:
 
 - **Explicit (E):** What the text directly says -- a quote or close paraphrase
 - **Necessary Implication (N):** What unavoidably follows from explicit statements
@@ -27,7 +27,7 @@ This is an **expository** series, not a debate. There are no "positions" to argu
 
 ---
 
-## The 16 Studies
+## The 17 Studies
 
 ### Introduction
 
@@ -71,6 +71,14 @@ How do the commandments connect to the broader themes of love, the heart, the Sp
 |---|-------|----------|
 | 16 | [**Comprehensive Synthesis**](studies/cmd-16-comprehensive-synthesis/conclusion-simple.md) | Taking ALL the evidence together from 15 studies, what does the Bible teach about the Ten Commandments? |
 
+### Supplementary Studies
+
+Focused deep dives that extend the main series with sustained investigation of specific connections.
+
+| # | Study | Question |
+|---|-------|----------|
+| 17 | [If You Love Me, Keep My Commandments](studies/cmd-17-if-you-love-me-keep-my-commandments/conclusion-simple.md) | What commandments is Jesus referring to in John 14:15? How does it parallel Exodus 20:6? Trace the love-commandments formula across Scripture with Greek grammar analysis and Christological argument. |
+
 ---
 
 ## What Each Study Contains
@@ -92,7 +100,7 @@ Every study includes multiple layers of research, all accessible through the nav
 
 ## Evidence Summary
 
-The comprehensive synthesis (Study 16) drew from the full body of evidence across all 15 prior studies. The tallies below reflect the complete 16-study series.
+The comprehensive synthesis (Study 16) drew from the full body of evidence across all 15 prior studies. Study 17 adds supplementary evidence on the love-commandments formula. The tallies below reflect the complete 17-study series.
 
 ### Evidence Classification (All Studies)
 
@@ -100,13 +108,13 @@ The comprehensive synthesis (Study 16) drew from the full body of evidence acros
 |------|-------|
 | Explicit (E) | 840 |
 | Necessary Implication (N) | 128 |
-| I-A (Evidence-Extending) | 78 |
+| I-A (Evidence-Extending) | 80 |
 | I-B (Competing-Evidence) | 6 |
 | I-C (Compatible External) | 0 |
 | I-D (Counter-Evidence External) | 0 |
-| **Total** | **1,052** |
+| **Total** | **1,054** |
 
-All 1,052 evidence items are classified as Neutral -- this is an expository series reporting what the text says, not a debate between positions. Evidence is categorized by type: Commandment Scope, Word Study, Biblical Application, NT Treatment, Theological Significance, and Cross-Commandment.
+All 1,054 evidence items are classified as Neutral -- this is an expository series reporting what the text says, not a debate between positions. Evidence is categorized by type: Commandment Scope, Word Study, Biblical Application, NT Treatment, Theological Significance, and Cross-Commandment.
 
 [**Read the Full Synthesis**](studies/cmd-16-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
 

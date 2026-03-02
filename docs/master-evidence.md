@@ -163,7 +163,7 @@
 | E155 | Thou shalt not make unto thee any graven image (pesel), or any likeness (temunah) of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. | Exo 20:4 | Neutral | cmd-03 |  |
 | E156 | Thou shalt not bow down thyself to them, nor serve them. | Exo 20:5a | Neutral | cmd-03 |  |
 | E157 | I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me. | Exo 20:5b | Neutral | cmd-03 |  |
-| E158 | And shewing mercy unto thousands of them that love me, and keep my commandments. | Exo 20:6 | Neutral | cmd-03 | cmd-12 |
+| E158 | And shewing mercy unto thousands of them that love me, and keep my commandments. | Exo 20:6 | Neutral | cmd-03 | cmd-12, cmd-17 |
 | E159 | Ye heard the voice of the words, but saw no similitude (temunah); only ye heard a voice. | Deu 4:12 | Neutral | cmd-03 |  |
 | E160 | Ye saw no manner of similitude on the day that the LORD spake unto you in Horeb out of the midst of the fire -- lest ye corrupt yourselves, and make you a graven image. | Deu 4:15-16 | Neutral | cmd-03 |  |
 | E161 | Thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. | Exo 25:18 | Neutral | cmd-03 |  |
@@ -617,17 +617,17 @@
 | E610 | Ye shall be holy: for I the LORD your God am holy. The love command is embedded in the holiness code. | Lev 19:2 | Neutral | cmd-12 |  |
 | E611 | What doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul, To keep the commandments of the LORD. | Deu 10:12-13 | Neutral | cmd-12 |  |
 | E612 | The LORD thy God will circumcise thine heart...to love the LORD thy God with all thine heart. The ability to love God is a divine gift. | Deu 30:6 | Neutral | cmd-12 | cmd-13 |
-| E613 | I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments. Love, walking, and keeping are one unified requirement. | Deu 30:16 | Neutral | cmd-12 |  |
+| E613 | I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments. Love, walking, and keeping are one unified requirement. | Deu 30:16 | Neutral | cmd-12 | cmd-17 |
 | E614 | O how love I thy law! it is my meditation all the day. | Psa 119:97 | Neutral | cmd-12 |  |
 | E615 | The first angel's message in Rev 14:7 uses creation language verbally paralleling the fourth commandment's rationale: 'worship him that made heaven, and earth, and the sea' (Rev 14:7) echoes 'in six days the LORD made heaven and earth, the sea, and all that in them is' (Exo 20:11). | Rev 14:7; Exo 20:11 | Neutral | cmd-16 |  |
 | E621 | Love your enemies, bless them that curse you. Jesus extends love beyond the neighbor to the enemy. | Mat 5:44 | Neutral | cmd-12 |  |
 | E622 | Be ye therefore perfect, even as your Father which is in heaven is perfect. Love is measured by God's character. | Mat 5:48 | Neutral | cmd-12 |  |
 | E623 | All things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets. | Mat 7:12 | Neutral | cmd-12 |  |
 | E624 | A new commandment I give unto you, That ye love one another; as I have loved you. The new standard of love is Christ's self-sacrifice. | Jhn 13:34 | Neutral | cmd-12 |  |
-| E625 | If ye love me, keep my commandments. Love is the motive; obedience is the expression. | Jhn 14:15 | Neutral | cmd-12 | cmd-13, cmd-14, cmd-15 |
-| E626 | He that hath my commandments, and keepeth them, he it is that loveth me. Keeping commandments IS evidence of love. | Jhn 14:21 | Neutral | cmd-12 | cmd-14 |
+| E625 | If ye love me, keep my commandments. Love is the motive; obedience is the expression. | Jhn 14:15 | Neutral | cmd-12 | cmd-13, cmd-14, cmd-15, cmd-17 |
+| E626 | He that hath my commandments, and keepeth them, he it is that loveth me. Keeping commandments IS evidence of love. | Jhn 14:21 | Neutral | cmd-12 | cmd-14, cmd-17 |
 | E627 | If a man love me, he will keep my words. | Jhn 14:23 | Neutral | cmd-12 | cmd-14 |
-| E628 | If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love. Jesus equates His and the Father's commandments. | Jhn 15:10 | Neutral | cmd-12 |  |
+| E628 | If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love. Jesus equates His and the Father's commandments. | Jhn 15:10 | Neutral | cmd-12 | cmd-17 |
 | E629 | Ye are my friends, if ye do whatsoever I command you. Friendship with Jesus is conditional on obedience. | Jhn 15:14 | Neutral | cmd-12 |  |
 | E630 | He that loveth another hath fulfilled the law. | Rom 13:8 | Neutral | cmd-12 |  |
 | E631 | The love of God is shed abroad in our hearts by the Holy Ghost which is given unto us. Love is Spirit-produced. | Rom 5:5 | Neutral | cmd-12 | cmd-13, cmd-14 |
@@ -644,7 +644,7 @@
 | E642 | God is love. Love is an attribute of God's nature. | 1 Jhn 4:8,16 | Neutral | cmd-12 |  |
 | E643 | We love him, because he first loved us. Human love for God is responsive to God's prior love. | 1 Jhn 4:19 | Neutral | cmd-12 |  |
 | E644 | If a man say, I love God, and hateth his brother, he is a liar. Loving God and loving brother are inseparable. | 1 Jhn 4:20 | Neutral | cmd-12 |  |
-| E645 | This is love, that we walk after his commandments. This is the commandment, That ye should walk in it. Love = commandment-keeping; commandment = walking in love. | 2 Jhn 1:6 | Neutral | cmd-12 |  |
+| E645 | This is love, that we walk after his commandments. This is the commandment, That ye should walk in it. Love = commandment-keeping; commandment = walking in love. | 2 Jhn 1:6 | Neutral | cmd-12 | cmd-17 |
 | E646 | The LORD hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day. | Deu 29:4 | Neutral | cmd-13 |  |
 | E647 | And these words, which I command thee this day, shall be in thine heart. | Deu 6:6 | Neutral | cmd-13 |  |
 | E648 | The word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it. | Deu 30:14 | Neutral | cmd-13 |  |
@@ -1039,6 +1039,8 @@
 | I057 | Love does not replace the commandments but expresses itself through commandment-keeping. Love is the motive and the commandments are the expression. | I-A |  |  |  | Neutral | cmd-12 |  |
 | I058 | The new covenant internalizes the Decalogue through Spirit-enabled love rather than replacing it with different content. The change is in mode of enablement, not in moral content. | I-A |  |  |  | Neutral | cmd-12 |  |
 | I059 | Love reflects the character of God and is the means by which believers reflect God's character. Since God is love, the law reflects God's character, and love fulfills the law, love-motivated obedience images God. | I-A |  |  |  | Neutral | cmd-12 | cmd-13 |
+| I061 | If Christ was the pre-incarnate divine person present with Israel, then my commandments in John 14:15 may carry the force of authorial ownership over the Decalogue. | I-A |  | Systematizes multiple E/N items | 5 | Neutral | cmd-17-if-you-love-me-keep-my-commandments |  |
+| I062 | My commandments in John 14:15 includes both the Decalogue and the love command as one unified set. | I-A |  | Systematizes multiple E/N items | 5 | Neutral | cmd-17-if-you-love-me-keep-my-commandments |  |
 | I063 | The seven-stage progressive revelation arc (pre-Sinai foundations, Sinai codification, case law application, prophetic expansion, Jesus's treatment, apostolic application, eschatological resolution) represents a unified biblical trajectory for the Decalogue from Genesis to Revelation. | I-A | Each stage is documented by E/N items across the twelve studies | Systematizes multiple E/N items into a broader pattern | 5 | Neutral | cmd-16 |  |
 | I064 | The Decalogue's two-table structure (love God / love neighbor), bridged by the 5th commandment's use of divine-honor vocabulary (kabed, yare) for parents, constitutes an intentional literary design. | I-A | The two-table summary is explicit (Mat 22:37-40; Rom 13:8-10). The bridge vocabulary is explicit (kabed/yare for both God and parents). | Intentional design requires systematization beyond what any single text states | 5 | Neutral | cmd-16 |  |
 | I065 | Every commandment has both a negative prohibition and a positive counterpart that emerges from the broader canonical treatment (e.g., murder/self-sacrificial love, stealing/giving, coveting/contentment). | I-A | Each individual negative-to-positive pairing is documented across the studies | Universalizing from individual observations to a pattern covering all ten commandments | 5 | Neutral | cmd-16 |  |

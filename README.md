@@ -1,6 +1,6 @@
 # The Ten Commandments Deep Dive
 
-A comprehensive 16-study biblical investigation examining what Scripture teaches about each of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, OT application, prophetic expansion, NT treatment, and cross-references from Genesis to Revelation.
+A comprehensive 17-study biblical investigation examining what Scripture teaches about each of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, OT application, prophetic expansion, NT treatment, and cross-references from Genesis to Revelation.
 
 **Live site: https://redmod79.github.io/cmd-website/**
 
@@ -24,10 +24,11 @@ A comprehensive 16-study biblical investigation examining what Scripture teaches
 | 14 | The Spirit and the Law |
 | 15 | Faith, Grace, and Obedience |
 | 16 | Comprehensive Synthesis |
+| 17 | If You Love Me, Keep My Commandments |
 
 ## Evidence
 
-1,052 evidence items classified across all studies (840 Explicit, 128 Necessary Implication, 78 I-A, 6 I-B).
+1,054 evidence items classified across all studies (840 Explicit, 128 Necessary Implication, 80 I-A, 6 I-B).
 
 ## Related Studies
 

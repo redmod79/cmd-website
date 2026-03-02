@@ -1,6 +1,6 @@
 site_name: "The Ten Commandments Deep Dive"
 site_url: https://redmod79.github.io/cmd-website/
-site_description: A comprehensive 16-study biblical investigation examining what the Bible says about each of the Ten Commandments -- origin, meaning, word studies, OT application, prophetic expansion, NT treatment, and cross-references across Scripture from Genesis to Revelation.
+site_description: A comprehensive 17-study biblical investigation examining what the Bible says about each of the Ten Commandments -- origin, meaning, word studies, OT application, prophetic expansion, NT treatment, and cross-references across Scripture from Genesis to Revelation.
 
 theme:
   name: material
@@ -337,3 +337,23 @@ nav:
         - "Nave's Topics": studies/cmd-16-comprehensive-synthesis/raw-data/naves-topics.md
         - "Cross-Testament Parallels": studies/cmd-16-comprehensive-synthesis/raw-data/parallels.md
         - "Strong's Lookups": studies/cmd-16-comprehensive-synthesis/raw-data/strongs-lookups.md
+
+  # ── Supplementary Studies ──
+  - "Supplementary Studies":
+
+    - "17 -- If You Love Me, Keep My Commandments":
+      - studies/cmd-17-if-you-love-me-keep-my-commandments/conclusion-simple.md
+      - Conclusion: studies/cmd-17-if-you-love-me-keep-my-commandments/CONCLUSION.md
+      - Analysis: studies/cmd-17-if-you-love-me-keep-my-commandments/03-analysis.md
+      - Verses: studies/cmd-17-if-you-love-me-keep-my-commandments/02-verses.md
+      - Word Studies: studies/cmd-17-if-you-love-me-keep-my-commandments/04-word-studies.md
+      - Topics: studies/cmd-17-if-you-love-me-keep-my-commandments/01-topics.md
+      - Research Scope: studies/cmd-17-if-you-love-me-keep-my-commandments/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-17-if-you-love-me-keep-my-commandments/raw-data/concept-context.md
+        - "Grammar References": studies/cmd-17-if-you-love-me-keep-my-commandments/raw-data/grammar-references.md
+        - "Greek Parsing": studies/cmd-17-if-you-love-me-keep-my-commandments/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-17-if-you-love-me-keep-my-commandments/raw-data/hebrew-parsing.md
+        - "Cross-Testament Parallels": studies/cmd-17-if-you-love-me-keep-my-commandments/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-17-if-you-love-me-keep-my-commandments/raw-data/strongs-lookups.md
+        - "Nave's Topics": studies/cmd-17-if-you-love-me-keep-my-commandments/raw-data/topics.md
