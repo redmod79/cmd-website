@@ -1,0 +1,339 @@
+site_name: "The Ten Commandments Deep Dive"
+site_url: https://redmod79.github.io/cmd-website/
+site_description: A comprehensive 16-study biblical investigation examining what the Bible says about each of the Ten Commandments -- origin, meaning, word studies, OT application, prophetic expansion, NT treatment, and cross-references across Scripture from Genesis to Revelation.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Methodology: methodology.md
+  - "Research Tools & Process": tools.md
+  - "Master Evidence File": master-evidence.md
+
+  # ── Introduction ──
+  - "Introduction":
+
+    - "01 -- The Decalogue: Origin, Context, and Character":
+      - studies/cmd-01-decalogue-origin-and-character/conclusion-simple.md
+      - Conclusion: studies/cmd-01-decalogue-origin-and-character/CONCLUSION.md
+      - Analysis: studies/cmd-01-decalogue-origin-and-character/03-analysis.md
+      - Verses: studies/cmd-01-decalogue-origin-and-character/02-verses.md
+      - Word Studies: studies/cmd-01-decalogue-origin-and-character/04-word-studies.md
+      - Topics: studies/cmd-01-decalogue-origin-and-character/01-topics.md
+      - Research Scope: studies/cmd-01-decalogue-origin-and-character/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/cmd-01-decalogue-origin-and-character/raw-data/existing-studies.md
+        - "Nave's Topics": studies/cmd-01-decalogue-origin-and-character/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-01-decalogue-origin-and-character/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-01-decalogue-origin-and-character/raw-data/strongs-lookups.md
+
+  # ── The Ten Commandments ──
+  - "The Ten Commandments":
+
+    - "02 -- No Other Gods Before Me":
+      - studies/cmd-02-first-commandment-no-other-gods/conclusion-simple.md
+      - Conclusion: studies/cmd-02-first-commandment-no-other-gods/CONCLUSION.md
+      - Analysis: studies/cmd-02-first-commandment-no-other-gods/03-analysis.md
+      - Verses: studies/cmd-02-first-commandment-no-other-gods/02-verses.md
+      - Word Studies: studies/cmd-02-first-commandment-no-other-gods/04-word-studies.md
+      - Topics: studies/cmd-02-first-commandment-no-other-gods/01-topics.md
+      - Research Scope: studies/cmd-02-first-commandment-no-other-gods/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-02-first-commandment-no-other-gods/raw-data/concept-context.md
+        - "Existing Studies": studies/cmd-02-first-commandment-no-other-gods/raw-data/existing-studies.md
+        - "Hebrew Parsing": studies/cmd-02-first-commandment-no-other-gods/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-02-first-commandment-no-other-gods/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-02-first-commandment-no-other-gods/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-02-first-commandment-no-other-gods/raw-data/strongs-lookups.md
+
+    - "03 -- No Graven Images":
+      - studies/cmd-03-second-commandment-no-images/conclusion-simple.md
+      - Conclusion: studies/cmd-03-second-commandment-no-images/CONCLUSION.md
+      - Analysis: studies/cmd-03-second-commandment-no-images/03-analysis.md
+      - Verses: studies/cmd-03-second-commandment-no-images/02-verses.md
+      - Word Studies: studies/cmd-03-second-commandment-no-images/04-word-studies.md
+      - Topics: studies/cmd-03-second-commandment-no-images/01-topics.md
+      - Research Scope: studies/cmd-03-second-commandment-no-images/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/cmd-03-second-commandment-no-images/raw-data/existing-studies.md
+        - "Hebrew Parsing": studies/cmd-03-second-commandment-no-images/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-03-second-commandment-no-images/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-03-second-commandment-no-images/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-03-second-commandment-no-images/raw-data/strongs-lookups.md
+
+    - "04 -- Do Not Take God's Name in Vain":
+      - studies/cmd-04-third-commandment-gods-name/conclusion-simple.md
+      - Conclusion: studies/cmd-04-third-commandment-gods-name/CONCLUSION.md
+      - Analysis: studies/cmd-04-third-commandment-gods-name/03-analysis.md
+      - Verses: studies/cmd-04-third-commandment-gods-name/02-verses.md
+      - Word Studies: studies/cmd-04-third-commandment-gods-name/04-word-studies.md
+      - Topics: studies/cmd-04-third-commandment-gods-name/01-topics.md
+      - Research Scope: studies/cmd-04-third-commandment-gods-name/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/cmd-04-third-commandment-gods-name/raw-data/existing-studies.md
+        - "Hebrew Parsing": studies/cmd-04-third-commandment-gods-name/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-04-third-commandment-gods-name/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-04-third-commandment-gods-name/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-04-third-commandment-gods-name/raw-data/strongs-lookups.md
+
+    - "05 -- Remember the Sabbath Day":
+      - studies/cmd-05-fourth-commandment-sabbath/conclusion-simple.md
+      - Conclusion: studies/cmd-05-fourth-commandment-sabbath/CONCLUSION.md
+      - Analysis: studies/cmd-05-fourth-commandment-sabbath/03-analysis.md
+      - Verses: studies/cmd-05-fourth-commandment-sabbath/02-verses.md
+      - Word Studies: studies/cmd-05-fourth-commandment-sabbath/04-word-studies.md
+      - Topics: studies/cmd-05-fourth-commandment-sabbath/01-topics.md
+      - Research Scope: studies/cmd-05-fourth-commandment-sabbath/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-05-fourth-commandment-sabbath/raw-data/concept-context.md
+        - "Existing Studies": studies/cmd-05-fourth-commandment-sabbath/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-05-fourth-commandment-sabbath/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-05-fourth-commandment-sabbath/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-05-fourth-commandment-sabbath/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-05-fourth-commandment-sabbath/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-05-fourth-commandment-sabbath/raw-data/strongs-lookups.md
+
+    - "06 -- Honor Your Father and Mother":
+      - studies/cmd-06-fifth-commandment-honor-parents/conclusion-simple.md
+      - Conclusion: studies/cmd-06-fifth-commandment-honor-parents/CONCLUSION.md
+      - Analysis: studies/cmd-06-fifth-commandment-honor-parents/03-analysis.md
+      - Verses: studies/cmd-06-fifth-commandment-honor-parents/02-verses.md
+      - Word Studies: studies/cmd-06-fifth-commandment-honor-parents/04-word-studies.md
+      - Topics: studies/cmd-06-fifth-commandment-honor-parents/01-topics.md
+      - Research Scope: studies/cmd-06-fifth-commandment-honor-parents/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-06-fifth-commandment-honor-parents/raw-data/concept-context.md
+        - "Existing Studies": studies/cmd-06-fifth-commandment-honor-parents/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-06-fifth-commandment-honor-parents/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-06-fifth-commandment-honor-parents/raw-data/hebrew-parsing.md
+        - "Cross-Testament Parallels": studies/cmd-06-fifth-commandment-honor-parents/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-06-fifth-commandment-honor-parents/raw-data/strongs-lookups.md
+
+    - "07 -- Do Not Murder":
+      - studies/cmd-07-sixth-commandment-do-not-murder/conclusion-simple.md
+      - Conclusion: studies/cmd-07-sixth-commandment-do-not-murder/CONCLUSION.md
+      - Analysis: studies/cmd-07-sixth-commandment-do-not-murder/03-analysis.md
+      - Verses: studies/cmd-07-sixth-commandment-do-not-murder/02-verses.md
+      - Word Studies: studies/cmd-07-sixth-commandment-do-not-murder/04-word-studies.md
+      - Topics: studies/cmd-07-sixth-commandment-do-not-murder/01-topics.md
+      - Research Scope: studies/cmd-07-sixth-commandment-do-not-murder/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-07-sixth-commandment-do-not-murder/raw-data/concept-context.md
+        - "DB Queries": studies/cmd-07-sixth-commandment-do-not-murder/raw-data/db-queries.md
+        - "Existing Studies": studies/cmd-07-sixth-commandment-do-not-murder/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-07-sixth-commandment-do-not-murder/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-07-sixth-commandment-do-not-murder/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-07-sixth-commandment-do-not-murder/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-07-sixth-commandment-do-not-murder/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-07-sixth-commandment-do-not-murder/raw-data/strongs-lookups.md
+
+    - "08 -- Do Not Commit Adultery":
+      - studies/cmd-08-seventh-commandment-adultery/conclusion-simple.md
+      - Conclusion: studies/cmd-08-seventh-commandment-adultery/CONCLUSION.md
+      - Analysis: studies/cmd-08-seventh-commandment-adultery/03-analysis.md
+      - Verses: studies/cmd-08-seventh-commandment-adultery/02-verses.md
+      - Word Studies: studies/cmd-08-seventh-commandment-adultery/04-word-studies.md
+      - Topics: studies/cmd-08-seventh-commandment-adultery/01-topics.md
+      - Research Scope: studies/cmd-08-seventh-commandment-adultery/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-08-seventh-commandment-adultery/raw-data/concept-context.md
+        - "Existing Studies": studies/cmd-08-seventh-commandment-adultery/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-08-seventh-commandment-adultery/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-08-seventh-commandment-adultery/raw-data/hebrew-parsing.md
+        - "Cross-Testament Parallels": studies/cmd-08-seventh-commandment-adultery/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-08-seventh-commandment-adultery/raw-data/strongs-lookups.md
+
+    - "09 -- Do Not Steal":
+      - studies/cmd-09-eighth-commandment-stealing/conclusion-simple.md
+      - Conclusion: studies/cmd-09-eighth-commandment-stealing/CONCLUSION.md
+      - Analysis: studies/cmd-09-eighth-commandment-stealing/03-analysis.md
+      - Verses: studies/cmd-09-eighth-commandment-stealing/02-verses.md
+      - Word Studies: studies/cmd-09-eighth-commandment-stealing/04-word-studies.md
+      - Topics: studies/cmd-09-eighth-commandment-stealing/01-topics.md
+      - Research Scope: studies/cmd-09-eighth-commandment-stealing/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-09-eighth-commandment-stealing/raw-data/concept-context.md
+        - "Existing Studies": studies/cmd-09-eighth-commandment-stealing/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-09-eighth-commandment-stealing/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-09-eighth-commandment-stealing/raw-data/hebrew-parsing.md
+        - "Cross-Testament Parallels": studies/cmd-09-eighth-commandment-stealing/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-09-eighth-commandment-stealing/raw-data/strongs-lookups.md
+
+    - "10 -- Do Not Bear False Witness":
+      - studies/cmd-10-ninth-commandment-false-witness/conclusion-simple.md
+      - Conclusion: studies/cmd-10-ninth-commandment-false-witness/CONCLUSION.md
+      - Analysis: studies/cmd-10-ninth-commandment-false-witness/03-analysis.md
+      - Verses: studies/cmd-10-ninth-commandment-false-witness/02-verses.md
+      - Word Studies: studies/cmd-10-ninth-commandment-false-witness/04-word-studies.md
+      - Topics: studies/cmd-10-ninth-commandment-false-witness/01-topics.md
+      - Research Scope: studies/cmd-10-ninth-commandment-false-witness/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-10-ninth-commandment-false-witness/raw-data/concept-context.md
+        - "Existing Studies": studies/cmd-10-ninth-commandment-false-witness/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-10-ninth-commandment-false-witness/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-10-ninth-commandment-false-witness/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-10-ninth-commandment-false-witness/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-10-ninth-commandment-false-witness/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-10-ninth-commandment-false-witness/raw-data/strongs-lookups.md
+
+    - "11 -- Do Not Covet":
+      - studies/cmd-11-tenth-commandment-coveting/conclusion-simple.md
+      - Conclusion: studies/cmd-11-tenth-commandment-coveting/CONCLUSION.md
+      - Analysis: studies/cmd-11-tenth-commandment-coveting/03-analysis.md
+      - Verses: studies/cmd-11-tenth-commandment-coveting/02-verses.md
+      - Word Studies: studies/cmd-11-tenth-commandment-coveting/04-word-studies.md
+      - Topics: studies/cmd-11-tenth-commandment-coveting/01-topics.md
+      - Research Scope: studies/cmd-11-tenth-commandment-coveting/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/cmd-11-tenth-commandment-coveting/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-11-tenth-commandment-coveting/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-11-tenth-commandment-coveting/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-11-tenth-commandment-coveting/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-11-tenth-commandment-coveting/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-11-tenth-commandment-coveting/raw-data/strongs-lookups.md
+
+  # ── Thematic Synthesis ──
+  - "Thematic Synthesis":
+
+    - "12 -- How Does Love Fulfill the Law?":
+      - studies/cmd-12-love-fulfills-the-law/conclusion-simple.md
+      - Conclusion: studies/cmd-12-love-fulfills-the-law/CONCLUSION.md
+      - Analysis: studies/cmd-12-love-fulfills-the-law/03-analysis.md
+      - Verses: studies/cmd-12-love-fulfills-the-law/02-verses.md
+      - Word Studies: studies/cmd-12-love-fulfills-the-law/04-word-studies.md
+      - Topics: studies/cmd-12-love-fulfills-the-law/01-topics.md
+      - Research Scope: studies/cmd-12-love-fulfills-the-law/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-12-love-fulfills-the-law/raw-data/concept-context.md
+        - "Existing Studies": studies/cmd-12-love-fulfills-the-law/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-12-love-fulfills-the-law/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-12-love-fulfills-the-law/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-12-love-fulfills-the-law/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-12-love-fulfills-the-law/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-12-love-fulfills-the-law/raw-data/strongs-lookups.md
+
+    - "13 -- The Law Written on the Heart":
+      - studies/cmd-13-law-written-on-the-heart/conclusion-simple.md
+      - Conclusion: studies/cmd-13-law-written-on-the-heart/CONCLUSION.md
+      - Analysis: studies/cmd-13-law-written-on-the-heart/03-analysis.md
+      - Verses: studies/cmd-13-law-written-on-the-heart/02-verses.md
+      - Word Studies: studies/cmd-13-law-written-on-the-heart/04-word-studies.md
+      - Topics: studies/cmd-13-law-written-on-the-heart/01-topics.md
+      - Research Scope: studies/cmd-13-law-written-on-the-heart/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-13-law-written-on-the-heart/raw-data/concept-context.md
+        - "Existing Studies": studies/cmd-13-law-written-on-the-heart/raw-data/existing-studies.md
+        - "Greek Parsing": studies/cmd-13-law-written-on-the-heart/raw-data/greek-parsing.md
+        - "Hebrew Parsing": studies/cmd-13-law-written-on-the-heart/raw-data/hebrew-parsing.md
+        - "Nave's Topics": studies/cmd-13-law-written-on-the-heart/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-13-law-written-on-the-heart/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-13-law-written-on-the-heart/raw-data/strongs-lookups.md
+
+    - "14 -- The Spirit and the Law":
+      - studies/cmd-14-spirit-and-the-law/conclusion-simple.md
+      - Conclusion: studies/cmd-14-spirit-and-the-law/CONCLUSION.md
+      - Analysis: studies/cmd-14-spirit-and-the-law/03-analysis.md
+      - Verses: studies/cmd-14-spirit-and-the-law/02-verses.md
+      - Word Studies: studies/cmd-14-spirit-and-the-law/04-word-studies.md
+      - Topics: studies/cmd-14-spirit-and-the-law/01-topics.md
+      - Research Scope: studies/cmd-14-spirit-and-the-law/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-14-spirit-and-the-law/raw-data/concept-context.md
+        - "Nave's Topics": studies/cmd-14-spirit-and-the-law/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-14-spirit-and-the-law/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-14-spirit-and-the-law/raw-data/strongs-lookups.md
+
+    - "15 -- Faith, Grace, and Obedience":
+      - studies/cmd-15-faith-grace-and-obedience/conclusion-simple.md
+      - Conclusion: studies/cmd-15-faith-grace-and-obedience/CONCLUSION.md
+      - Analysis: studies/cmd-15-faith-grace-and-obedience/03-analysis.md
+      - Verses: studies/cmd-15-faith-grace-and-obedience/02-verses.md
+      - Word Studies: studies/cmd-15-faith-grace-and-obedience/04-word-studies.md
+      - Topics: studies/cmd-15-faith-grace-and-obedience/01-topics.md
+      - Research Scope: studies/cmd-15-faith-grace-and-obedience/PROMPT.md
+      - Raw Data:
+        - "Concept Context": studies/cmd-15-faith-grace-and-obedience/raw-data/concept-context.md
+        - "Nave's Topics": studies/cmd-15-faith-grace-and-obedience/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-15-faith-grace-and-obedience/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-15-faith-grace-and-obedience/raw-data/strongs-lookups.md
+
+  # ── Comprehensive Synthesis ──
+  - "Comprehensive Synthesis":
+
+    - "16 -- Comprehensive Synthesis":
+      - studies/cmd-16-comprehensive-synthesis/conclusion-simple.md
+      - Conclusion: studies/cmd-16-comprehensive-synthesis/CONCLUSION.md
+      - Analysis: studies/cmd-16-comprehensive-synthesis/03-analysis.md
+      - Verses: studies/cmd-16-comprehensive-synthesis/02-verses.md
+      - Word Studies: studies/cmd-16-comprehensive-synthesis/04-word-studies.md
+      - Topics: studies/cmd-16-comprehensive-synthesis/01-topics.md
+      - Research Scope: studies/cmd-16-comprehensive-synthesis/PROMPT.md
+      - Raw Data:
+        - "Existing Studies": studies/cmd-16-comprehensive-synthesis/raw-data/existing-studies.md
+        - "Nave's Topics": studies/cmd-16-comprehensive-synthesis/raw-data/naves-topics.md
+        - "Cross-Testament Parallels": studies/cmd-16-comprehensive-synthesis/raw-data/parallels.md
+        - "Strong's Lookups": studies/cmd-16-comprehensive-synthesis/raw-data/strongs-lookups.md
