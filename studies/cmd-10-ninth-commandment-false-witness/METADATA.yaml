@@ -1,0 +1,8 @@
+cli: Claude Code
+cli_version: "2.1.62 (Claude Code)"
+model: "claude-opus-4-6"
+skill: bible-study2
+date: "2026-02-27"
+platform: "windows"
+series: "cmd"
+study_id: "cmd-10"
