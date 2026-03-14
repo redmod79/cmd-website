@@ -3,10 +3,6 @@
 *A comprehensive 17-study biblical investigation examining what Scripture teaches about each of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, OT application, prophetic expansion, NT treatment, and cross-references from Genesis to Revelation.*
 
 ---
-
-!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
-    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
-
 ## The Question
 
 What does the Bible actually say about the Ten Commandments? Not what tradition says, not what any denomination assumes -- but what the text itself states, from the first giving at Sinai through the prophets, the Psalms, the teachings of Jesus, and the letters of the apostles.
