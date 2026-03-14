@@ -4,6 +4,9 @@
 
 ---
 
+!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
+    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
+
 ## The Question
 
 What does the Bible actually say about the Ten Commandments? Not what tradition says, not what any denomination assumes -- but what the text itself states, from the first giving at Sinai through the prophets, the Psalms, the teachings of Jesus, and the letters of the apostles.
@@ -117,18 +120,3 @@ The comprehensive synthesis (Study 16) drew from the full body of evidence acros
 All 1,054 evidence items are classified as Neutral -- this is an expository series reporting what the text says, not a debate between positions. Evidence is categorized by type: Commandment Scope, Word Study, Biblical Application, NT Treatment, Theological Significance, and Cross-Commandment.
 
 [**Read the Full Synthesis**](studies/cmd-16-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Historicist Proof**](https://redmod79.github.io/hist-website/) | A 19-study investigation examining whether Daniel and Revelation describe continuous history from the prophet's time to the second coming. 496 evidence items classified. |
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument about the final fate of the wicked. 632 evidence items classified. |
-| [**Does Paul Contradict Jesus?**](https://redmod79.github.io/pvj-website/) | A 22-study investigation examining every major alleged contradiction between Paul and Jesus -- faith vs works, the law, food laws, circumcision, and more. |
-| [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report examining the angel view vs. the godly human view using explicit biblical evidence. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. |
